@@ -1,0 +1,15 @@
+DateTime,Customer_Id,Customer_Name,Amount,City_Name
+2018-10-17 12:12:00,1,Alice,5612.32,Kigali
+2018-10-17 12:15:22,1,Alice,2001.00,Kigali
+2018-10-17 12:15:23,1,Alice,1987.11,Kigali
+2018-10-17 12:15:24,1,Alice,9888.99,Kigali
+2018-10-17 12:17:09,2,Bob,324234.99,Nairobi
+2018-10-17 12:17:10,2,Bob,12224.99,Nairobi
+2018-10-17 12:17:10,2,Bob,99221.22,Nairobi
+2018-10-17 12:17:10,2,Bob,99221.22,Nairobi
+2018-10-17 12:17:10,2,Bob,99221.22,Nairobi
+2018-10-17 12:18:25,3,Charlie,1221.11,Johannesburg
+2018-10-17 12:18:25,3,Charlie,98711.00,Johannesburg
+2018-10-17 12:18:26,3,Charlie,2100119992.00,Johannesburg
+2018-10-17 12:15:24,3,Charlie,2222113.99,Johannesburg
+2018-10-17 12:15:22,3,Charlie,123.45,Johannesburg
